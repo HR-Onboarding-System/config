@@ -2,9 +2,5 @@ spring:
   application:
     name: config-client
 
-server:
-  port: 9090
-
 user:
-  role: Cindy
-
+  role: User-Narito
